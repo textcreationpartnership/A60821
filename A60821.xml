@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some particular matter of fact relating to the administration of affairs in Scotland under the Duke of Lauderdale humbly offered to His Majesties consideration, in obedience to His Royal commands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60821</idno>
+            <idno type="STC">Wing S4549</idno>
+            <idno type="STC">ESTC R17787</idno>
+            <idno type="EEBO-CITATION">11936244</idno>
+            <idno type="OCLC">ocm 11936244</idno>
+            <idno type="VID">51183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some particular matter of fact relating to the administration of affairs in Scotland under the Duke of Lauderdale humbly offered to His Majesties consideration, in obedience to His Royal commands.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lauderdale, John Maitland, --  Duke of, 1616-1682.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51183:1"/>
+            <pb n="1" facs="tcp:51183:1" rendition="simple:additions"/>
+            <head>Some particular Matter of Fact, relating to the Ad<g ref="char:EOLhyphen"/>miniſtration of Affairs in SCOTLAND Under the Duke of Lauderdale.</head>
+            <head>Humbly offered to His Majeſties Conſideration, in Obedience to His Royal Commands.</head>
+            <p n="1">1. THE <hi>Duke of Lauderdale</hi> did groſly miſrepreſent to your Majeſty the Condition of the <hi>Weſtern Counties,</hi> as if they had been in a ſtate of Rebellion, though there ne<g ref="char:EOLhyphen"/>ver had been any oppoſition made to your Majeſties Authority, nor any reſiſtance offered to your Forces, nor to the execution of the Laws: But he purpoſing to abuſe your Ma<g ref="char:EOLhyphen"/>jeſty, that ſo he might carry on his ſiniſter Deſigns by your Authority, adviſed your Majeſty to raiſe an Army againſt your peaceable Subjects, at leaſt did frame a Letter, which he ſent to your Majeſty to be ſigned by your Royal Hand to that effect; which being ſent down to your Council, Orders were thereupon given out for raiſing an Army of 8 or 9000 men, the greateſt part whereof were <hi>Hilanders.</hi> And notwithſtanding that to avert this threatning, the <hi>Nobi<g ref="char:EOLhyphen"/>lity</hi> and <hi>Gentry</hi> of that County did ſend to <hi>Edenburgh,</hi> and for the ſecurity of the Peace did of<g ref="char:EOLhyphen"/>fer to engage, that whoſoever ſhould be ſent to put the Laws in execution, ſhould meet with no affront, and that they would become Hoſtages for their ſafety, yet this Army was led into a peaceable Countrey, and did take free Quarters according to their Commiſſions, and in moſt places levied great ſums of Money under notion of dry Quarters, and did plunder and rob your Majeſties Subjects, of which no redreſs could be obtained, though complaints were frequently made: All which were expreſly contrary to the Laws of the Kingdom.</p>
+            <p n="2">2. In thoſe Quarterings it was apparent, that regard was only had to that <hi>Duke</hi>'s private Animoſities; for the greateſt part of thoſe Places that were moſt quartered on, and deſtroyed, had not been guilty of any the ſaid <hi>Field-Conventicles</hi> complained of, and many of the Places that were moſt guilty, were ſpared upon private Conſiderations.</p>
+            <p n="3">3. The Subjects at that time were required to ſubſcribe an exorbitant and illegal <hi>Bond,</hi> which was impoſſible to be performed by them, <hi>That they, their Wives and Children, and Ser<g ref="char:EOLhyphen"/>vants, their Tenants, and their Wives, Children and Servants, ſhould live orderly according to Law, not go to Conventicles, or entertain vagrant Preachers,</hi> with ſeveral other particulars; by which Bond, thoſe that ſigned it, were made liable for every man's fault that lived upon their ground.</p>
+            <p n="4">4. Your Majeſty's Subjects were charged with Laborrows, denounced Rebels, and Capti<g ref="char:EOLhyphen"/>ons were iſſued out for ſeizing their Perſons, upon their refuſing to ſign the aforeſaid <hi>Bond;</hi> and the <hi>Nobility</hi> and <hi>Gentry</hi> there, who have been ever faithful to your Majeſty, and had ap<g ref="char:EOLhyphen"/>peared in Arms for ſuppreſſing the laſt Rebellion, were diſarmed upon Oath; and a Proclama<g ref="char:EOLhyphen"/>tion was alſo iſſued out, forbidding them upon great penalties to keep any Horſes, above four pounds ten groats price.</p>
+            <p n="5">5. The <hi>Nobility</hi> and <hi>Gentry</hi> of the Shire of <hi>Ayre</hi> were alſo indicted, at the inſtance of your Majeſty's Advocate, of very high Crimes and Miſdemeanors, whereof ſome did import Trea<g ref="char:EOLhyphen"/>ſon. Theſe Indictments were delivered them in the Evening, to be anſwered by them next Morning upon <hi>Oath;</hi> and when they did demand two or three days time to conſider of their Indictments, and crave the benefit of Lawyers to adviſe with, in Matters of ſo high concern<g ref="char:EOLhyphen"/>ment,
+<pb n="2" facs="tcp:51183:2"/>and alſo excepted to their being put to ſwear againſt themſelves, in Matters that were capital, which was contrary to all Law and Juſtice, thoſe their deſires were rejected, though the like had never been done to the greateſt Malefactor in the Kingdom; and it was told them, they muſt either ſwear inſtantly, or they would repute them guilty, and proceed accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="6">6. The <hi>Noblemen</hi> and <hi>Gentlemen</hi> knowing themſelves innocent of all that had been ſurmiſed againſt them, did purge themſelves by <hi>Oath</hi> of all the particulars that were objected to them, and were thereupon acquitted; and though the Committee of the Council uſed the ſevereſt manner of enquiry, to diſcover any Seditions or treaſonable Deſigns, which were pretended as the grounds for leading in that Army into thoſe Countreys, yet nothing could ever be proved; ſo falſe was that ſuggeſtion concerning a Rebellion then deſigned, that was offered to your Ma<g ref="char:EOLhyphen"/>jeſty, and prevailed with you for ſending the aforementioned Letter.</p>
+            <p n="7">7. The Oppreſſions and Quarterings ſtill continuing, the <hi>Noblemen</hi> and <hi>Gentlemen</hi> of thoſe Countreys went to <hi>Edenburgh,</hi> to repreſent to your <hi>Council</hi> the heavy preſſure that they and their People lay under, and were ready to offer to them all that in Law or Reaſon could be re<g ref="char:EOLhyphen"/>quired of them for ſecuring the Peace. The <hi>Council</hi> did immediately upon their appearing there ſet forth a <hi>Proclamation,</hi> requiring them to depart the Town within three days upon all higheſt pains; and when the <hi>Duke of Hamilton</hi> did petition for leave to ſtay two or three days longer, for ſome very urgent Affairs, that was refuſed him.</p>
+            <p n="8">8. When ſome Perſons of Quality had declared to the <hi>Duke of Lauderdale,</hi> that they would go and repreſent their Condition to your Majeſty, if they could not have juſtice from your Mi<g ref="char:EOLhyphen"/>niſters. For preventing that, a <hi>Proclamation</hi> was ſet forth, forbidding all the Subjects to de<g ref="char:EOLhyphen"/>part the Kingdom without licence, that ſo your Majeſty might not be acquainted with the ſaid Condition of your Subjects, from making their Application to your Majeſty, no leſs contrary to your Majeſties true Intereſt, (who muſt always be the refuge of your People) than to the natural Right of the Subject.</p>
+            <p>
+               <hi>The former particulars relate to the invaſion of the Rights of great numbers of your Subjects all at once; what follow have indeed only fallen on ſome ſingle perſons, yet are ſuch that your whole People apprehend, they may all be upon the ſlighteſt occaſions brought under the like miſchiefs.</hi>
+            </p>
+            <p>The <hi>Council</hi> hath upon many occaſions proceeded to a new kind of puniſhment, of declaring men uncapable of Publick Truſt: concerning which, your Majeſty may remember what Com<g ref="char:EOLhyphen"/>plaints the ſaid <hi>Duke</hi> then made, when (during the <hi>Earl of Middleton</hi>'s Adminiſtration) he himſelf was put under, and incapacitated by an <hi>Act of Parliament;</hi> The words of his Paper againſt the <hi>Earl of Middleton</hi> [are uncapacitating] <hi>was to whip with Scorpions, a puniſhment to rob men of their Honour and to lay a laſting ſtain upon them and their Poſterity.</hi> And if this was complained of when done by the High Court of <hi>Parliament,</hi> your Majeſty may eaſily conclude it cannot be done in any lower Court. But yet notwithſtanding, it is become of late years an ordinary Sentence in <hi>Council,</hi> when the leaſt Complaints are brought againſt any with whom the <hi>Duke of Lauderdale</hi> is offended.</p>
+            <p>
+               <hi>Inſtances of this are;</hi>
+            </p>
+            <p>The declaring twelve worthy <hi>Citizens</hi> of <hi>Edenburgh</hi> uncapable of Publick Truſt, againſt whom no Complaint was ever made to this day, as your Majeſty will perceive more fully by a Paper concerning that affair. The true cauſe of it was, that thoſe men being in the <hi>Magi<g ref="char:EOLhyphen"/>ſtracy,</hi> the <hi>Duke</hi> and his <hi>Brother</hi> could not get a vaſt Bribe from them out of the Towns Money, which was afterwards obtained, when they were removed.</p>
+            <p>The <hi>Provoſt</hi> of <hi>Glaſcow, Aberdeen</hi> and <hi>Gadburgh,</hi> were put under the ſame Sentence, for ſign<g ref="char:EOLhyphen"/>ing a <hi>Letter</hi> to your Majeſty in the <hi>Convention</hi> of the <hi>Burroughs,</hi> with the reſt of that Body; which <hi>Letter</hi> was adviſed by him who is now your Majeſties Advocate as that which had nothing in it which could bring them under any Guilt: And yet thoſe three were ſingled out of the whole number, and incapacitated, beſides a high Fine and a long Impriſonment, as your Majeſty will more fully perceive by another Paper.</p>
+            <p>Sir <hi>Patrick Home</hi> of <hi>Polworth,</hi> being ſent by the <hi>Shire</hi> of <hi>Berwick</hi> to complain of ſome illegal proceedings, and to obtain a legal remedy to them, which he did only in the common form of Law, was alſo declared uncapable of Publick Truſt, beſides many months Impriſonment.</p>
+            <p>The <hi>Provoſt</hi> of <hi>Linlithgoe</hi> being complained of for not furniſhing ſome of your Forces with Baggage-Horſes, was called before the <hi>Council,</hi> and becauſe he ſaid they were not bound in
+<pb n="3" facs="tcp:51183:2"/>Law to furniſh Horſes in ſuch manner, he was immediately declared incapable of Publick Truſt, and was both Fined and Impriſoned.</p>
+            <p>There are alſo 50 of the Town of <hi>St. Johnſtons</hi> incapacitated upon a very ſlight pretence, ſo that it is now impoſſible for them to find a ſufficient number of Citizens for the Magiſtracy of that Town.</p>
+            <p n="2">2. Your Subjects are ſometimes upon ſlight, and oftentimes upon no grounds Impriſoned, and ſometimes kept Priſoners many months and years, nothing being objected to them, and are required to enter themſelves Priſoners, which is contrary to Law. It was in the former Arti<g ref="char:EOLhyphen"/>cle expreſſed, that many of the perſons declared uncapable of Publick Truſt, did alſo ſuffer Im<g ref="char:EOLhyphen"/>priſonment. And beſides theſe inſtances, <hi>Lieutenant General Drumond</hi> (whoſe eminent Loyalty and great Services are well known to your Majeſty) was required to enter himſelf Priſoner in the <hi>Caſtle of Dunbarton,</hi> where he was kept one year and a half, and was made a cloſe Priſoner for nine months of that time; and yet nothing was ever objected to him to this day, to juſtifie that uſage.</p>
+            <p>The <hi>Lord Cardroſſe</hi> was for his Ladies keeping two Conventicles in her own Houſe (at which he was not preſent) Fined 11000 <abbr>l.</abbr> and hath now been kept four years Priſoner in the <hi>Caſtle</hi> of <hi>Edenburgh,</hi> where he ſtill remains, although he hath often petitioned for his Liberty: And Sir <hi>Patrick Home</hi> hath been now a ſecond time almoſt one year impriſoned, and nothing is yet laid to his Charge.</p>
+            <p>Beſides theſe illegal Impriſonments, the Officers of your Majeſties Forces carry frequently Warrants with them, for apprehending perſons that are under no legal Cenſures, nor have been ſo much as Cited to appear; which hath put many of your Subjects into very great fears, eſpecially upon what was done in Council three years ago.</p>
+            <p>
+               <hi>Captain Carſtaires</hi> (a man now well enough known to your Majeſty) did entrap one <hi>Kirkton</hi> an Outed Miniſter into his Chamber at <hi>Edenburgh,</hi> and did violently abuſe him, and deſigned to have extorted ſome money from him: The noiſe of this coming to the ears of one <hi>Bayly,</hi> Brother-in-law to the ſaid <hi>Kirkton,</hi> he came to the Houſe, and hearing him cry <hi>Murder, Murder,</hi> forced open his Chamber-door, where he found his Brother-in-Law and the Captain grap<g ref="char:EOLhyphen"/>pling: The Captain pretended he had a Warrant againſt <hi>Kirkton,</hi> and <hi>Bayly</hi> deſired him to ſhew it, and promiſed that all Obedience ſhould be given to it; but the Captain refuſing to do it, <hi>Kirkton</hi> was reſcued. This was only delivering a man from the hands of a Robber, which Nature obligeth all men to do, eſpecially when joyned with ſo near a Relation.</p>
+            <p>The <hi>Captain</hi> complained of this to the <hi>Council,</hi> and the <hi>Lord Hatton</hi> with others were ap<g ref="char:EOLhyphen"/>pointed to examine the Witneſſes; and when it was brought before the Council, the Duke of <hi>Hamilton,</hi> Earls of <hi>Moreton, Dumfrize</hi> and <hi>Rincardin,</hi> the Lord <hi>Cocheren,</hi> and Sir <hi>Archibald Primroſe</hi> then Lord Regiſter, deſired, That the Report of the Examination might be read: But that not ſerving their ends, was denyed, and thereupon thoſe Lords delivered their Opi<g ref="char:EOLhyphen"/>nion, That ſince <hi>Carſtaires</hi> did not ſhew any Warrant. nor was Clothed with any Publick Cha<g ref="char:EOLhyphen"/>racter, it was no oppoſition of your Majeſties Authority in <hi>Bayly,</hi> ſo to reſcue the ſaid <hi>Kirkton:</hi> yet <hi>Bayly</hi> was for this Fined in 6000 marks, and kept long a Priſoner.</p>
+            <p>Thoſe <hi>Lords</hi> were upon that ſo repreſented to your Majeſty, that by the <hi>Duke of Lauderdale</hi>'s procurement they were turned out of the <hi>Council,</hi> and all Command of the <hi>Militia.</hi> And it can be made appear, that the <hi>Captain</hi> had at that time no Warrant at all againſt that <hi>Kirkton,</hi> but procured it after the Violence committed; and it was antedated on deſign, to ſerve a turn at that time. This manner of proceedings hath ever ſince put your Subjects under ſad apprehenſions.</p>
+            <p>
+               <hi>There is one particular further offered to your Majeſties conſideration, concerning their way of uſing Priſoners.</hi>
+            </p>
+            <p>There were 14 men taken at a Field-Conventicle, who (without being legally convict of that or any other Crime) were ſecretly and in the night taken out of Priſon, upon a Warrant ſigned by the <hi>Earl of Linlithgoe,</hi> and the <hi>Lords Hatton</hi> and <hi>Collington,</hi> and were delivered to <hi>Captain Maitland,</hi> who had been Page to the <hi>Duke of Lauderdale,</hi> but was then a <hi>French</hi> Officer, and was making his Leavies in <hi>Scotland,</hi> and were carried over to the Service of the <hi>French</hi> King in the year 1676.</p>
+            <p n="3">3. The <hi>Counc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> hath upon many occaſions proceeded to moſt unreaſonable and arbitrary Fines, either for ſlight Offences, or for Offences where the Fine is regulated by Law, which they have never conſidered, when the perſons were not acceptable to them; ſo the <hi>Lord Cardroſs</hi> was
+<pb n="4" facs="tcp:51183:3" rendition="simple:additions"/>fined in 11000 <abbr>l.</abbr> for his Ladies keeping two Conventicles in his Houſe, and Chriſtning a Child by an Outed Miniſter without his knowledge. The <hi>Provoſt</hi> formerly mentioned, and <hi>Baily,</hi> and many more, were alſo fined, without any regard to Law.</p>
+            <p n="4">4. The <hi>Council</hi> hath at ſeveral times proceeded to the taking of Gentlemens dwelling-Houſes from them, and putting Garriſons in them, which in time of Peace is contrary to Law. In the year 1675, it was deſigned againſt twelve of your Majeſties Subjects, and was in execution in the Houſes of the <hi>Earl of Callender,</hi> the <hi>Lord Cardroſs,</hi> the <hi>Lady Lumſden, &amp;c.</hi> and was again attempted in the year 1678. the Houſes belonging to the <hi>Lairds</hi> of <hi>Cheſnocke, Blaghan,</hi> and <hi>Rawallane,</hi> were poſſeſſed by Souldiers, and declared Garriſons: Nor did it reſt there, but Orders were ſent from the Council, requiring the Countreys about theſe Houſes to furniſh them for the Souldiers Uſes, and to ſupply them with Neceſſaries, much contrary to Law. It was againſt this that Sir <hi>Patrick Home</hi> came to deſire a Remedy, and common Juſtice being de<g ref="char:EOLhyphen"/>nied him, he uſed a legal Proteſtation in the ordinary form of Law, and was thereupon kept many months a <hi>Priſoner,</hi> and declared uncapable of all publick Truſt.</p>
+            <p n="5">5. There is another Particular, which becauſe it is ſo odious is unwillingly touched, yet it is neceſſary to inform your Majeſty about it; for thereby it will appear, that the <hi>Duke of Lau<g ref="char:EOLhyphen"/>derdale</hi> and his <hi>Brother,</hi> have in a moſt ſolemn manner broken the publick Faith that was given in your Majeſties Name.</p>
+            <p>One <hi>Mitchell</hi> being put in Priſon, upon great ſuſpition of his having attempted to murder the late <hi>Archbiſhop</hi> of St. <hi>Andrews,</hi> and there being no Evidence againſt him, Warrant was given by the <hi>Duke of Lauderdale,</hi> (then your Majeſties <hi>Commiſſioner</hi> and <hi>Counſellor</hi>) to pro<g ref="char:EOLhyphen"/>miſe him his Life, if he would confeſs: Whereupon he did confeſs; and yet ſome years after, that Perſon (who indeed deſerved many deaths, if there had been any other Evidence againſt him) was upon that Confeſſion convicted of the Crime, and the <hi>Duke of Lauderdale</hi> and his <hi>Brother</hi> being put to it by him, did ſwear, that they neither gave nor knew of any aſſurance of Life given him: And when it was objected, that the promiſe was upon <hi>Record</hi> in the <hi>Council</hi>-Books, the <hi>Duke of Lauderdale</hi> did in open Court (where he was only preſent as a Witneſs, and ſo ought to have been ſilent) threaten them, if they ſhould proceed to the Ex<g ref="char:EOLhyphen"/>amination of the <hi>Act</hi> of <hi>Council,</hi> which (as he then ſaid) might infer Perjury on them that had ſworn, and ſo did cut off the proof of that defence, which had been admitted by the Court as good in Law, and ſufficient to ſave the Priſoner, if proved. Thus was that man hanged upon that Confeſſion only, though the promiſe that drew it from him doth appear upon Re<g ref="char:EOLhyphen"/>cord, and can be proved by good and clear Evidence: And from this your Majeſty may judge, what credit may be given to ſuch men.</p>
+            <p>We do not at preſent enlarge upon other Particulars, though of great importance, ſuch as <hi>Monopolies, ſelling Places</hi> and <hi>Honours,</hi> turning men of known Integrity out of their Imploy<g ref="char:EOLhyphen"/>ments, to which they had a good and juſt Right during their Lives; the Profits of one of the moſt conſiderable of theſe being ſequeſtred for ſome time, and imployed for the <hi>Dutcheſs of Lau<g ref="char:EOLhyphen"/>derdales</hi> uſe, the treating about, and the receiving of great Bribes by the <hi>Duke</hi> and <hi>Dutcheſs of Lauderdale,</hi> and the <hi>Lord Hatton,</hi> and particularly from the Towns of <hi>Edenburgh, Aberdeen, Linlithgoe,</hi> and many others, for procuring from your Majeſty Warrants for illegal Impoſiti<g ref="char:EOLhyphen"/>ons within theſe Towns, to the manifeſt and publick perverting of Juſtice in Seſſions, beſides the moſt ſignal abuſes of the <hi>Mint</hi> and <hi>Copper</hi>-Coin, that are moſt grievous to all your Subjects. But the number of theſe is ſo great, and they will require ſo many Witneſſes to be brought hi<g ref="char:EOLhyphen"/>ther for proving them, that we fear it would too much trouble your Majeſty now to examine them all; but your Majeſty ſhall have a full Account of them afterwards.</p>
+            <p>One thing is humbly offered to your Majeſty, as the Root of theſe and many other Oppreſſi<g ref="char:EOLhyphen"/>ons, which is, that the method of governing that Kingdom for ſeveral years hath been, That the <hi>Lord Hatton</hi> and his Adherents frame any <hi>Letter</hi> that they deſire from your Majeſty, to your <hi>Council,</hi> and ſends it to the <hi>Duke of Lauderdale,</hi> who returns it ſigned, and this is brought to the <hi>Council;</hi> upon which, if a debate at any time ariſeth, concerning the matter of the <hi>Letter,</hi> as being againſt or without Law; and when it is propoſed, if a Repreſentation of that ſhould be made to your Majeſty, then the <hi>Lord Hatton</hi> in his inſolent way calls to have it put to the Queſtion, as if it were a Crime to have any Warrant either debated or repreſented to your Majeſty, which is procured by the <hi>Duke of Lauderdale</hi> or himſelf, and this is ecchoed by his Party, and by this means any further debating is ſtopped.</p>
+            <p>There are ſome other Particulars relating to theſe Heads, that are to be offered to your Majeſty in other Papers, which are not added here, leſt your Majeſty ſhould now be troubled with too long a Paper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
